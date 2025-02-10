@@ -2,7 +2,7 @@
 I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨
 
 ## 📞 Contact Details
-- 📧 Best way to reach me is email: reach.saad@outlook.com
+- 📧 Best way to reach me is via email: reach.saad@outlook.com
 - ✨ Support me: https://buymeacoffee.com/saad1inc
 
 ## 🌐 Social Media
