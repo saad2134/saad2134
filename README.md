@@ -1,8 +1,7 @@
-
 ![saad-banner](https://github.com/user-attachments/assets/ed0bc6b7-ac75-4c24-80a9-284d74c4f0d0)
 
 <h1 align="center">👋 Hi, I’m Saad.</h1>
-<h3 align="center">I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨</h3>
+<p align="center">I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨</p>
 
 ## 📞 Contact Details
 - 📧 Best way to reach me is via email: reach.saad@outlook.com
