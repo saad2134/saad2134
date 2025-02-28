@@ -1,6 +1,6 @@
 ![saad-banner](https://github.com/user-attachments/assets/ed0bc6b7-ac75-4c24-80a9-284d74c4f0d0)
 
-<h1 align="center">👋 Hi, I’m Saad.</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1>
 <p align="center">I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨</p>
 
 ## 📞 Contact Details
