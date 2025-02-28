@@ -6,7 +6,6 @@
 
 ## 📞 Contact Details
 - 📧 Best way to reach me is via email: reach.saad@outlook.com
-- ✨ Support me: https://buymeacoffee.com/saad1inc
 
 ## 🌐 Social Media
 - [X/Twitter](https://x.com/saad1inc)
@@ -16,9 +15,17 @@
 - [Bluesky](https://bsky.app/profile/saad1inc.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/saad2134/)
 
-## 📈 Stats
+## ✨ Support Me
 
- 
+| Method (Link) | QR |
+|---|---|
+| [Buy Me A Coffee](https://buymeacoffee.com/saad1inc) ☕ | <img src="https://github.com/user-attachments/assets/1988bebd-1f6b-4b72-a72a-29ee4437f8a8" alt="bmac" style="width:200px;"/> |
+| [PayPal](https://www.paypal.me/str2134) | <img src="https://github.com/user-attachments/assets/7f6b84e6-e367-49d9-a11b-e8317967df00" alt="paypal" style="width:200px;"/> |
+| [BTC]() (₿) | <img src="https://github.com/user-attachments/assets/5005ef48-4376-4127-8d69-64bab0458301" alt="btc" style="width:200px;"/> |
+| [Other Crypto](https://nowpayments.io/donation/saad1inc) | <img src="https://github.com/user-attachments/assets/a7a46ee1-3379-4fb0-abac-7ffab3f49c98" alt="bmac" style="width:200px;"/> |
+
+
+## 📈 Stats
 
 | Description | Stats |
 |---|---|
