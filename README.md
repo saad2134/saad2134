@@ -6,7 +6,7 @@
 
 ## 📞 Contact Details
 - 📧 Best way to reach me is via email: reach.saad@outlook.com
-- 💬 You can also directly chat with me on [Discord↗](https://discord.com/users/1044305442496585818).
+- 💬 You can also directly chat with me on [Discord (click to open)](https://discord.com/users/1044305442496585818).
 
 ## 🌐 Social Media
 - [X/Twitter](https://x.com/saad1inc)
