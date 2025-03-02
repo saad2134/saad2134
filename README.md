@@ -18,12 +18,13 @@
 
 ## ✨ Support Me
 
-| Method (Link) | QR |
+| Method (Link) | QR/Button |
 |---|---|
-| [Buy Me A Coffee](https://buymeacoffee.com/saad1inc) ☕ | <img src="https://github.com/user-attachments/assets/1988bebd-1f6b-4b72-a72a-29ee4437f8a8" alt="bmac" style="width:150px;"/> |
-| [BTC]() (₿) | <img src="https://github.com/user-attachments/assets/5005ef48-4376-4127-8d69-64bab0458301" alt="btc" style="width:150px;"/> |
-<!--| [PayPal](https://www.paypal.me/str2134) | <img src="https://github.com/user-attachments/assets/7f6b84e6-e367-49d9-a11b-e8317967df00" alt="paypal" style="width:200px;"/> |-->
+| [Donate on PayPal](https://www.paypal.me/str2134) | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/str2134/) |
+| [Donate on Buy Me A Coffee](https://buymeacoffee.com/saad1inc) ☕ | <img src="https://github.com/user-attachments/assets/71307846-dac1-4d21-b2bc-39120c219b9e" alt="bmac" style="width:150px;"/> |
+| [Donate BTC](https://nowpayments.io/donation/saad1inc) (₿) | <img src="https://github.com/user-attachments/assets/5005ef48-4376-4127-8d69-64bab0458301" alt="btc" style="width:150px;"/> |
 <!--| [Other Crypto](https://nowpayments.io/donation/saad1inc) | <img src="https://github.com/user-attachments/assets/a7a46ee1-3379-4fb0-abac-7ffab3f49c98" alt="bmac" style="width:200px;"/> |-->
+
 
 
 ## 📈 Stats
@@ -34,4 +35,4 @@
 | Most used languages in my repos. | ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saad2134&layout=compact&theme=dark) |
 
 ## ✍️ Endnote
-Thankk you for reading!
+Thank you for reading!
