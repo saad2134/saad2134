@@ -30,7 +30,7 @@
 | Description | Stats |
 |---|---|
 | GitHub profile view count. | <img src="https://komarev.com/ghpvc/?username=saad2134" alt="Profile views" title="GitHub profile view count" width="150" height="30"> |
-| Most used languages in my repos. | ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saad2134&layout=compact&theme=dark) |
+| Most used languages in my repos. | ![Saad's GitHub stats]() |
 
 ## ✍️ Endnote
 Thank you for reading!
