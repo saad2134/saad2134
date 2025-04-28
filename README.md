@@ -4,6 +4,19 @@
 
 <p align="center">I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨</p>
 
+<h2 align="center">🛠️ Technologies</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" alt="Skills" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" alt="Frameworks" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" alt="Databases" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" alt="Tools" />
+</div>
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+
 ## 📞 Contact Details
 - 📧 Best way to reach me is via email: reach.saad@outlook.com
 - 💬 You can also directly chat with me on [Discord (click to open)](https://discord.com/users/1044305442496585818).
@@ -34,3 +47,11 @@
 
 ## ✍️ Endnote
 Thank you for reading!
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+        <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
