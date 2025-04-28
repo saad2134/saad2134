@@ -7,13 +7,29 @@
 <h2 align="center">🛠️ Technologies</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" alt="Skills" />
+    <img 
+        src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" 
+        alt="Skills" 
+        title="Skills" 
+    />
     <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" alt="Frameworks" />
+    <img 
+        src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" 
+        alt="Frameworks & Libraries" 
+        title="Frameworks & Libraries" 
+    />
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" alt="Databases" />
+    <img 
+        src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" 
+        alt="Databases" 
+        title="Databases" 
+    />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" alt="Tools" />
+    <img 
+        src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" 
+        alt="Tools" 
+        title="Tools" 
+    />
 </div>
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
