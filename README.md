@@ -9,8 +9,8 @@
 <div align="center">
     <img 
         src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" 
-        alt="Skills" 
-        title="Skills" 
+        alt="Languages" 
+        title="Languages" 
     />
     <br>
     <img 
