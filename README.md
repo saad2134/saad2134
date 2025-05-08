@@ -6,31 +6,49 @@
 
 <h2 align="center">🛠️ Technologies</h2>
 
-<div align="center">
-    <img 
-        src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" 
-        alt="Languages" 
-        title="Languages" 
-    />
-    <br>
-    <img 
-        src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" 
-        alt="Frameworks & Libraries" 
-        title="Frameworks & Libraries" 
-    />
-    <br>
-    <img 
-        src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" 
-        alt="Databases" 
-        title="Databases" 
-    />
-    <br>
-    <img 
-        src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" 
-        alt="Tools" 
-        title="Tools" 
-    />
-</div>
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Icons</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Languages</td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" 
+                     alt="Languages" 
+                     title="Languages" />
+            </td>
+        </tr>
+        <tr>
+            <td>Frameworks & Libraries</td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" 
+                     alt="Frameworks & Libraries" 
+                     title="Frameworks & Libraries" />
+            </td>
+        </tr>
+        <tr>
+            <td>Databases</td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" 
+                     alt="Databases" 
+                     title="Databases" />
+            </td>
+        </tr>
+        <tr>
+            <td>Tools</td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" 
+                     alt="Tools" 
+                     title="Tools" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
 ## 📞 Contact Details
