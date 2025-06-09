@@ -7,46 +7,77 @@
 <h2 align="center">🛠️ Technologies</h2>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
-    <thead>
-        <tr>
-            <th>Category</th>
-            <th>Icons</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Languages</td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nodejs,python,java,c" 
-                     alt="Languages" 
-                     title="Languages" />
-            </td>
-        </tr>
-        <tr>
-            <td>Frameworks & Libraries</td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=bootstrap,react,npm,nextjs,graphql,threejs,express,django,qt,pytorch" 
-                     alt="Frameworks & Libraries" 
-                     title="Frameworks & Libraries" />
-            </td>
-        </tr>
-        <tr>
-            <td>Databases</td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,supabase" 
-                     alt="Databases" 
-                     title="Databases" />
-            </td>
-        </tr>
-        <tr>
-            <td>Tools</td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=vscode,codepen,github,gitlab,git,anaconda,firebase,vercel,appwrite,cloudflare,gcp" 
-                     alt="Tools" 
-                     title="Tools" />
-            </td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Icons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Languages</td>
+      <td>
+        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
+          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript">
+          <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
+          <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
+          <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Frameworks & Libraries</td>
+      <td>
+        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+          <img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm">
+          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js">
+          <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL">
+          <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" title="Three.js">
+          <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js">
+          <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
+          <img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt">
+          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Databases</td>
+      <td>
+        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB">
+          <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
+          <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code">
+          <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" title="CodePen">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab">
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+          <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" title="Anaconda">
+          <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase">
+          <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+          <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" title="Appwrite">
+          <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform">
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
