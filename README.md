@@ -20,6 +20,7 @@
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
           <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
           <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
+           <img src="https://skillicons.dev/icons?i=sass" alt="Sass (Syntactically Awesome Style Sheets)" title="Sass (Syntactically Awesome Style Sheets)">
           <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
           <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript">
           <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript">
@@ -44,6 +45,7 @@
           <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
           <img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt">
           <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch">
+          <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow">
         </div>
       </td>
     </tr>
@@ -51,7 +53,8 @@
       <td>Databases</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">sqlite
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite">
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB">
           <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
           <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase">
@@ -74,6 +77,7 @@
           <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
           <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform">
           <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+          <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
         </div>
       </td>
     </tr>
