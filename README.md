@@ -53,7 +53,7 @@
       <td>Databases</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">sqlite
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
           <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite">
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB">
           <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
