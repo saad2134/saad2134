@@ -68,6 +68,7 @@
           <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code">
           <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" title="CodePen">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+          <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
           <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab">
           <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
           <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" title="Anaconda">
