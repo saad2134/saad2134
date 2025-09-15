@@ -4,7 +4,7 @@
 
 <div style="background-color:#FFF5E1; padding: 20px 0; border-radius: 10px;">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ED2939&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+CS+Student;Innovator;Chess%20Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ED2939&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+CS+Student;Innovator%20%7C%20Lifelong%20Learner;Chess%20Enthusiast;" alt="Typing SVG" />
   </p>
 </div>
 
@@ -102,6 +102,19 @@
 - [Instagram](https://www.instagram.com/saad1inc)
 - [Bluesky](https://bsky.app/profile/saad1inc.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/saad2134/)
+
+## 🚀 Other Profiles
+<p align="center">
+  <a href="https://gitlab.com/saad2134">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="https://leetcode.com/saad2134">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.kaggle.com/saad2134">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
 
 
 ## ✨ Support Me
