@@ -2,7 +2,11 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
 
-<p align="center">I'm an independent developer, designer, and creator exploring novel applications of computer science and technology. ✨</p>
+<div style="background-color:#FFF5E1; padding: 20px 0; border-radius: 10px;">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ED2939&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+CS+Student;Innovator;Chess%20Enthusiast" alt="Typing SVG" />
+  </p>
+</div>
 
 <h2 align="center">🛠️ Technologies</h2>
 
@@ -99,8 +103,8 @@
 - [Bluesky](https://bsky.app/profile/saad1inc.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/saad2134/)
 
-## ✨ Support Me
 
+## ✨ Support Me
 | Method (Link) | QR/Button |
 |---|---|
 | <a href="https://www.paypal.me/str2134" target="_blank">Donate on PayPal</a> | <a href="https://www.paypal.me/str2134/" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal"></a> |
@@ -108,13 +112,24 @@
 | Donate BTC (₿) <br> or <a href="https://nowpayments.io/donation/saad1inc" target="_blank">Click me for other cryptocurrencies.</a> | <a href="https://nowpayments.io/donation/saad1inc" target="_blank"><img src="https://github.com/user-attachments/assets/ab8bc34c-f72e-4396-b29a-b476eacfee4d" alt="btc" style="width:150px;"/></a> |
 <!--| <a href="https://nowpayments.io/donation/saad1inc" target="_blank">Other Crypto</a> | <a href="https://nowpayments.io/donation/saad1inc" target="_blank"><img src="https://github.com/user-attachments/assets/a7a46ee1-3379-4fb0-abac-7ffab3f49c98" alt="bmac" style="width:200px;"/></a> |-->
 
-
 ## 📈 Stats
 
 | Description | Stats |
 |---|---|
 | GitHub profile view count. | <img src="https://komarev.com/ghpvc/?username=saad2134" alt="Profile views" title="GitHub profile view count" width="150" height="30"> |
-| Most used languages in my repos. | ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saad2134&layout=compact&theme=dark) |
+| Most used languages in my repos. | ![Saad's Language stats](https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=saad2134&show_icons=true&locale=en&layout=compact&langs_count=18&theme=dark) |
+| GitHub Stats. | ![Saad's GitHub stats](https://github-readme-stats-davevad93s-projects.vercel.app/api?username=saad2134&show_icons=true&locale=en&theme=dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true) |
+| GitHub Streak. | ![Saad's GitHub streak](https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=saad2134&theme=dark)  |
+| GitHub Contribution Graph. | ![Saad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saad2134&theme=github-dark&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&area=true)  |
+
+## 🏆 GitHub Trophies
+<picture>
+  <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app/?username=saad2134&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
+  <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=saad2134&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" width="100%" />
+</picture>
+
+## © Copyright Notice
+All of my projects not under a license is my copyright.
 
 ## ✍️ Endnote
 Thank you for reading!
