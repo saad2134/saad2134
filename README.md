@@ -128,7 +128,7 @@
 ## 📈 Stats
 
 | Description | Stats |
-|---|---|
+|:---:|:---:|
 | GitHub profile view count. | <img src="https://komarev.com/ghpvc/?username=saad2134" alt="Profile views" title="GitHub profile view count" width="150" height="30"> |
 | Most used languages in my repos. | ![Saad's Language stats](https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=saad2134&show_icons=true&locale=en&layout=compact&langs_count=18&theme=dark) |
 | GitHub Stats. | ![Saad's GitHub stats](https://github-readme-stats-davevad93s-projects.vercel.app/api?username=saad2134&show_icons=true&locale=en&theme=dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true) |
