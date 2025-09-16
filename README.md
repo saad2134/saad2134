@@ -2,9 +2,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
 
-<div style="background-color:#FFF5E1; padding: 20px 0; border-radius: 10px;">
+<div style="background-color:#FFF5E1; padding: 30px 0; border-radius: 15px;">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ED2939&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+CS+Student;Innovator%20%7C%20Lifelong%20Learner;Chess%20Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=ED2939&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%7C+CS+Student;Innovator%20%7C%20Lifelong%20Learner;Chess%20Enthusiast;" alt="Typing SVG" />
   </p>
 </div>
 
@@ -142,7 +142,7 @@
 </picture>
 
 ## © Copyright Notice
-All of my projects not under a license is my copyright.
+All of my projects not under a license is my and/or my collaborators copyright.
 
 ## ✍️ Endnote
 Thank you for reading!
