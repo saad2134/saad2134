@@ -14,7 +14,7 @@
   <thead>
     <tr>
       <th>Category</th>
-      <th>Icons</th>
+      <th>Technologies</th>
     </tr>
   </thead>
   <tbody>
