@@ -125,7 +125,7 @@
 | Donate BTC (₿) <br> or <a href="https://nowpayments.io/donation/saad1inc" target="_blank">Click me for other cryptocurrencies.</a> | <a href="https://nowpayments.io/donation/saad1inc" target="_blank"><img src="https://github.com/user-attachments/assets/ab8bc34c-f72e-4396-b29a-b476eacfee4d" alt="btc" style="width:150px;"/></a> |
 <!--| <a href="https://nowpayments.io/donation/saad1inc" target="_blank">Other Crypto</a> | <a href="https://nowpayments.io/donation/saad1inc" target="_blank"><img src="https://github.com/user-attachments/assets/a7a46ee1-3379-4fb0-abac-7ffab3f49c98" alt="bmac" style="width:200px;"/></a> |-->
 
-## 📈 Stats
+## 📈 Live Stats
 
 | Description | Stats |
 |:---:|:---:|
