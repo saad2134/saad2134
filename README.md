@@ -1,7 +1,8 @@
+<!--
 <p align="right">
   <a href="./README.md">English</a> • <a href="./locales/README.ar.md">العربية</a> • <a href="./locales/README.zh.md">简体中文</a> • <a href="./locales/README.hi.md">हिन्दी</a> • <a href="./locales/README.es.md">Español</a> • <a href="./locales/README.fr.md">Français</a> • <a href="./locales/README.pt.md">Português</a> • <a href="./locales/README.de.md">Deutsch</a> • <a href="./locales/README.id.md">Bahasa Indonesia</a> • <a href="./locales/README.ur.md">اردو</a> • <a href="./locales/README.ru.md">Русский</a> • <a href="./locales/README.ja.md">日本語</a>
 </p>
-
+-->
 ![SAAD-BANNER](./assets/SAAD-BANNER.gif)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
