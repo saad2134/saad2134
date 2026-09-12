@@ -146,10 +146,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>Фиатные валюты и платформы для авторов (Buy Me a Coffee / PayPal)</b></summary>
+  <summary>💳 <b>QR-коды: Фиатные валюты и платформы для авторов (Buy Me a Coffee / PayPal)</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>QR-код Buy Me A Coffee</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -159,7 +159,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>QR-код PayPal</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -170,10 +170,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>Криптовалюты (Нажмите, чтобы выбрать валюту)</b></summary>
+  <summary>💰 <b>QR-коды криптовалют (Нажмите, чтобы выбрать валюту)</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>Bitcoin (BTC)</b></summary>
+    <summary>🟧 <b>QR-код Bitcoin (BTC)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -183,7 +183,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>Ethereum (ETH)</b></summary>
+    <summary>🔷 <b>QR-код Ethereum (ETH)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -193,7 +193,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>Solana (SOL)</b></summary>
+    <summary>🟣 <b>QR-код Solana (SOL)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -203,7 +203,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>Другие криптовалюты (NOWPayments)</b></summary>
+    <summary>🌐 <b>QR-код других криптовалют (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">

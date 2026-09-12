@@ -148,10 +148,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>法币与创作者平台（Buy Me a Coffee / PayPal）</b></summary>
+  <summary>💳 <b>法币与创作者平台二维码（Buy Me a Coffee / PayPal）</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>Buy Me A Coffee 二维码</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -161,7 +161,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>PayPal 二维码</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -172,10 +172,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>加密货币（点击选择币种）</b></summary>
+  <summary>💰 <b>加密货币二维码（点击选择币种）</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>比特币 (BTC)</b></summary>
+    <summary>🟧 <b>比特币 (BTC) 二维码</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -185,7 +185,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>以太坊 (ETH)</b></summary>
+    <summary>🔷 <b>以太坊 (ETH) 二维码</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -195,7 +195,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>索拉纳 (SOL)</b></summary>
+    <summary>🟣 <b>索拉纳 (SOL) 二维码</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -205,7 +205,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>其他加密货币 (NOWPayments)</b></summary>
+    <summary>🌐 <b>其他加密货币二维码 (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">

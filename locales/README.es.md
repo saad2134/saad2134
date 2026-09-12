@@ -148,10 +148,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>Moneda Fiduciaria y Plataformas de Creadores (Buy Me a Coffee / PayPal)</b></summary>
+  <summary>💳 <b>Códigos QR de Moneda Fiduciaria y Creadores (Buy Me a Coffee / PayPal)</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>Código QR de Buy Me A Coffee</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -161,7 +161,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>Código QR de PayPal</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -172,10 +172,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>Criptomonedas (Haz clic para elegir una moneda)</b></summary>
+  <summary>💰 <b>Códigos QR de Criptomonedas (Haz clic para elegir una moneda)</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>Bitcoin (BTC)</b></summary>
+    <summary>🟧 <b>Código QR de Bitcoin (BTC)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -185,7 +185,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>Ethereum (ETH)</b></summary>
+    <summary>🔷 <b>Código QR de Ethereum (ETH)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -195,7 +195,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>Solana (SOL)</b></summary>
+    <summary>🟣 <b>Código QR de Solana (SOL)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -205,7 +205,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>Otras Criptomonedas (NOWPayments)</b></summary>
+    <summary>🌐 <b>Código QR de Otras Criptomonedas (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">

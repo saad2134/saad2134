@@ -148,10 +148,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>العملات النقدية ومنصات الدعم (Buy Me a Coffee / PayPal)</b></summary>
+  <summary>💳 <b>رموز QR للمنصات والعملات النقدية (Buy Me a Coffee / PayPal)</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>رمز QR لـ Buy Me A Coffee</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -161,7 +161,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>رمز QR لـ PayPal</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -172,10 +172,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>العملات الرقمية المشفرة (انقر لاختيار العملة)</b></summary>
+  <summary>💰 <b>رموز QR للعملات الرقمية المشفرة (انقر لاختيار العملة)</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>بتكوين (BTC)</b></summary>
+    <summary>🟧 <b>رمز QR لبتكوين (BTC)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -185,7 +185,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>إيثيريوم (ETH)</b></summary>
+    <summary>🔷 <b>رمز QR لإيثيريوم (ETH)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -195,7 +195,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>سولانا (SOL)</b></summary>
+    <summary>🟣 <b>رمز QR لسولانا (SOL)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -205,7 +205,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>عملات مشفرة أخرى (NOWPayments)</b></summary>
+    <summary>🌐 <b>رمز QR لعملات مشفرة أخرى (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">

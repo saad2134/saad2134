@@ -148,10 +148,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>पारंपरिक मुद्रा और क्रिएटर प्लेटफॉर्म (Buy Me a Coffee / PayPal)</b></summary>
+  <summary>💳 <b>पारंपरिक मुद्रा और क्रिएटर प्लेटफॉर्म क्यूआर कोड (Buy Me a Coffee / PayPal)</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>Buy Me A Coffee क्यूआर कोड</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -161,7 +161,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>PayPal क्यूआर कोड</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -172,10 +172,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>क्रिप्टोकरेंसी (सिक्का चुनने के लिए क्लिक करें)</b></summary>
+  <summary>💰 <b>क्रिप्टोकरेंसी क्यूआर कोड (सिक्का चुनने के लिए क्लिक करें)</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>बिटकॉइन (BTC)</b></summary>
+    <summary>🟧 <b>बिटकॉइन (BTC) क्यूआर कोड</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -185,7 +185,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>एथेरियम (ETH)</b></summary>
+    <summary>🔷 <b>एथेरियम (ETH) क्यूआर कोड</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -195,7 +195,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>सोलाना (SOL)</b></summary>
+    <summary>🟣 <b>सोलाना (SOL) क्यूआर कोड</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -205,7 +205,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>अन्य क्रिप्टो (NOWPayments)</b></summary>
+    <summary>🌐 <b>अन्य क्रिप्टो क्यूआर कोड (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">

@@ -146,10 +146,10 @@
 </p>
 
 <details align="center">
-  <summary>💳 <b>法定通貨＆クリエイタープラットフォーム (Buy Me a Coffee / PayPal)</b></summary>
+  <summary>💳 <b>法定通貨＆クリエイタープラットフォーム QRコード (Buy Me a Coffee / PayPal)</b></summary>
   <br>
   <details align="center">
-    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <summary>☕ <b>Buy Me A Coffee QRコード</b></summary>
     <br>
     <p align="center">
       <a href="https://buymeacoffee.com/saad1inc" target="_blank">
@@ -159,7 +159,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🅿️ <b>PayPal</b></summary>
+    <summary>🅿️ <b>PayPal QRコード</b></summary>
     <br>
     <p align="center">
       <a href="https://www.paypal.me/str2134" target="_blank">
@@ -170,10 +170,10 @@
 </details>
 
 <details align="center">
-  <summary>💰 <b>暗号資産（クリックして通貨を選択）</b></summary>
+  <summary>💰 <b>暗号資産 QRコード（クリックして通貨を選択）</b></summary>
   <br>
   <details align="center">
-    <summary>🟧 <b>ビットコイン (BTC)</b></summary>
+    <summary>🟧 <b>ビットコイン (BTC) QRコード</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -183,7 +183,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🔷 <b>イーサリアム (ETH)</b></summary>
+    <summary>🔷 <b>イーサリアム (ETH) QRコード</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -193,7 +193,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🟣 <b>ソラナ (SOL)</b></summary>
+    <summary>🟣 <b>ソラナ (SOL) QRコード</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -203,7 +203,7 @@
   </details>
   <br>
   <details align="center">
-    <summary>🌐 <b>その他の暗号資産 (NOWPayments)</b></summary>
+    <summary>🌐 <b>その他の暗号資産 QRコード (NOWPayments)</b></summary>
     <br>
     <p align="center">
       <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
