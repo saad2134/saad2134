@@ -131,14 +131,14 @@
   <img alt="GitHub トロフィー" src="https://github-trophies.vercel.app/?username=saad2134&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" width="100%" />
 </picture></a>
 
-## ✨ ご支援・サポート
+<h2 align="center" id="support-me">✨ ご支援・サポート</h2>
 
 <p align="center">
-  <a href="https://www.paypal.me/str2134" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Donate-PayPal-00457C.svg?logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
   <a href="https://buymeacoffee.com/saad1inc" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Buy_Me_A_Coffee-FFDD00.svg?logo=coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://www.paypal.me/str2134" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Donate-PayPal-00457C.svg?logo=paypal&logoColor=white" alt="PayPal" />
   </a>
   <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Donate-Crypto-F7931A.svg?logo=bitcoin&logoColor=white" alt="Crypto" />
@@ -146,13 +146,71 @@
 </p>
 
 <details align="center">
-  <summary>📱 <b>ビットコイン（BTC）QRコードをスキャン</b></summary>
+  <summary>💳 <b>法定通貨＆クリエイタープラットフォーム (Buy Me a Coffee / PayPal)</b></summary>
   <br>
-  <p align="center">
-    <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
-      <img src="https://github.com/user-attachments/assets/ab8bc34c-f72e-4396-b29a-b476eacfee4d" alt="Bitcoin QR Code" width="160" />
-    </a>
-  </p>
+  <details align="center">
+    <summary>☕ <b>Buy Me A Coffee</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://buymeacoffee.com/saad1inc" target="_blank">
+        <img src="../assets/qrs/buymeacoffee-qr.png" alt="Buy Me a Coffee QR Code" width="150" />
+      </a>
+    </p>
+  </details>
+  <br>
+  <details align="center">
+    <summary>🅿️ <b>PayPal</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://www.paypal.me/str2134" target="_blank">
+        <img src="../assets/qrs/paypal-qr.png" alt="PayPal QR Code" width="150" />
+      </a>
+    </p>
+  </details>
+</details>
+
+<details align="center">
+  <summary>💰 <b>暗号資産（クリックして通貨を選択）</b></summary>
+  <br>
+  <details align="center">
+    <summary>🟧 <b>ビットコイン (BTC)</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
+        <img src="../assets/qrs/btc-qr.png" alt="Bitcoin QR Code" width="150" />
+      </a>
+    </p>
+  </details>
+  <br>
+  <details align="center">
+    <summary>🔷 <b>イーサリアム (ETH)</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
+        <img src="../assets/qrs/eth-qr.png" alt="Ethereum QR Code" width="150" />
+      </a>
+    </p>
+  </details>
+  <br>
+  <details align="center">
+    <summary>🟣 <b>ソラナ (SOL)</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
+        <img src="../assets/qrs/sol-qr.png" alt="Solana QR Code" width="150" />
+      </a>
+    </p>
+  </details>
+  <br>
+  <details align="center">
+    <summary>🌐 <b>その他の暗号資産 (NOWPayments)</b></summary>
+    <br>
+    <p align="center">
+      <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
+        <img src="../assets/qrs/nowpayments-crypto-qr.png" alt="NOWPayments QR Code" width="150" />
+      </a>
+    </p>
+  </details>
 </details>
 
 ## ✍️ おわりに
