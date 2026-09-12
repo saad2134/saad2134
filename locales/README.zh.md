@@ -1,10 +1,10 @@
 <p align="right">
-  <a href="./README.md">English</a> • <a href="./locales/README.ar.md">العربية</a> • <a href="./locales/README.zh.md">简体中文</a> • <a href="./locales/README.hi.md">हिन्दी</a> • <a href="./locales/README.es.md">Español</a> • <a href="./locales/README.fr.md">Français</a> • <a href="./locales/README.pt.md">Português</a> • <a href="./locales/README.de.md">Deutsch</a> • <a href="./locales/README.id.md">Bahasa Indonesia</a> • <a href="./locales/README.ur.md">اردو</a> • <a href="./locales/README.ru.md">Русский</a> • <a href="./locales/README.ja.md">日本語</a>
+  <a href="../README.md">English</a> • <a href="./README.ar.md">العربية</a> • <a href="./README.zh.md">简体中文</a> • <a href="./README.hi.md">हिन्दी</a> • <a href="./README.es.md">Español</a> • <a href="./README.fr.md">Français</a> • <a href="./README.pt.md">Português</a> • <a href="./README.de.md">Deutsch</a> • <a href="./README.id.md">Bahasa Indonesia</a> • <a href="./README.ur.md">اردو</a> • <a href="./README.ru.md">Русский</a> • <a href="./README.ja.md">日本語</a>
 </p>
 
-![SAAD-BANNER](./assets/SAAD-BANNER.gif)
+![SAAD-BANNER](../assets/SAAD-BANNER.gif)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 你好，我是 Saad。</h1> 
 
 <div>
   <p align="center">
@@ -12,18 +12,18 @@
   </p>
 </div>
 
-<h2 align="center" id="technologies">🛠️ Technologies</h2>
+<h2 align="center" id="technologies">🛠️ 技术栈</h2>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Technologies</th>
+      <th>分类</th>
+      <th>技术</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Languages</td>
+      <td>编程语言</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
           <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML" title="HTML"></a>
@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <td>Frameworks & Libraries</td>
+      <td>框架与库</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
           <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white" alt=".NET" title=".NET"></a>
@@ -64,7 +64,7 @@
       </td>
     </tr>
     <tr>
-      <td>Databases</td>
+      <td>数据库</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
           <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL" title="MySQL"></a>
@@ -80,7 +80,7 @@
       </td>
     </tr>
     <tr>
-      <td>Tools</td>
+      <td>工具</td>
       <td>
         <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
           <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078d7.svg?logo=vscode&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code"></a>
@@ -107,33 +107,33 @@
 
 <!-- https://github.com/DenverCoder1/custom-icon-badges -->
 
-<h2 align="center">🌐 Connect & Profiles</h2>
+<h2 align="center">🌐 社交与个人主页</h2>
 
-| Category | Links & Platforms |
+| 分类 | 链接与平台 |
 |:---|:---|
-| **Direct Contact** | 📧 [reach.saad@outlook.com](mailto:reach.saad@outlook.com) *(Best Method)* • 💬 [Discord](https://discord.com/users/1044305442496585818) • 💼 [LinkedIn](https://www.linkedin.com/in/saad2134/) |
-| **Developer Profiles** | <a href="https://gitlab.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab" /></a> <a href="https://leetcode.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a> <a href="https://www.kaggle.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" /></a> |
-| **Social Media** | <a href="https://x.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/X-000000.svg?logo=x&logoColor=white" alt="X" /></a> <a href="https://www.youtube.com/@saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://bsky.app/profile/saad1inc.bsky.social"><img src="https://custom-icon-badges.demolab.com/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white" alt="Bluesky" /></a> <a href="https://www.instagram.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.facebook.com/saad1inc/"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" alt="Facebook" /></a> |
+| **直接联系** | 📧 [reach.saad@outlook.com](mailto:reach.saad@outlook.com) *(最佳方式)* • 💬 [Discord](https://discord.com/users/1044305442496585818) • 💼 [LinkedIn](https://www.linkedin.com/in/saad2134/) |
+| **开发者主页** | <a href="https://gitlab.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab" /></a> <a href="https://leetcode.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a> <a href="https://www.kaggle.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" /></a> |
+| **社交媒体** | <a href="https://x.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/X-000000.svg?logo=x&logoColor=white" alt="X" /></a> <a href="https://www.youtube.com/@saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://bsky.app/profile/saad1inc.bsky.social"><img src="https://custom-icon-badges.demolab.com/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white" alt="Bluesky" /></a> <a href="https://www.instagram.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.facebook.com/saad1inc/"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" alt="Facebook" /></a> |
 
 
 
-<h2 align="center" id="live-stats">📈 Live Stats</h2>
+<h2 align="center" id="live-stats">📈 实时统计</h2>
 
-| Description | Stats |
+| 说明 | 统计 |
 |:---:|:---:|
-| GitHub profile view counter. | <a href="#live-stats"><img src="https://komarev.com/ghpvc/?username=saad2134" alt="Profile views" title="GitHub profile view count" width="150" height="30"></a> |
-| Most used languages in my repos. | <a href="#live-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=saad2134&show_icons=true&locale=en&layout=compact&langs_count=18&theme=dark" alt="Saad's Language stats" /></a> |
-| GitHub Stats. | <a href="#live-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=saad2134&show_icons=true&locale=en&theme=dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="Saad's GitHub stats" /></a> |
-| GitHub Streak. | <a href="#live-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=saad2134&theme=dark" alt="Saad's GitHub streak" /></a>  |
-| GitHub Contribution Graph. | <a href="#live-stats"><img src="https://github-activity-graph.vercel.app/graph?username=saad2134&theme=github-dark&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&area=true" alt="Saad's GitHub Contribution Graph" /></a>  |
+| GitHub 个人主页访问量 | <a href="#live-stats"><img src="https://komarev.com/ghpvc/?username=saad2134" alt="Profile views" title="GitHub profile view count" width="150" height="30"></a> |
+| 仓库中使用最多的语言 | <a href="#live-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=saad2134&show_icons=true&locale=cn&layout=compact&langs_count=18&theme=dark" alt="Saad's Language stats" /></a> |
+| GitHub 统计 | <a href="#live-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=saad2134&show_icons=true&locale=cn&theme=dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="Saad's GitHub stats" /></a> |
+| GitHub 连续打卡 | <a href="#live-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=saad2134&theme=dark" alt="Saad's GitHub streak" /></a>  |
+| GitHub 贡献图 | <a href="#live-stats"><img src="https://github-activity-graph.vercel.app/graph?username=saad2134&theme=github-dark&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&area=true" alt="Saad's GitHub Contribution Graph" /></a>  |
 
-<h2 align="center" id="github-trophies">🏆 GitHub Trophies</h2>
+<h2 align="center" id="github-trophies">🏆 GitHub 荣誉成就</h2>
 <a href="#github-trophies"><picture>
   <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app/?username=saad2134&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
   <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=saad2134&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" width="100%" />
 </picture></a>
 
-## ✨ Support Me
+## ✨ 支持我
 
 <p align="center">
   <a href="https://www.paypal.me/str2134" target="_blank">
@@ -148,7 +148,7 @@
 </p>
 
 <details align="center">
-  <summary>📱 <b>Scan Bitcoin (BTC) QR Code</b></summary>
+  <summary>📱 <b>扫描比特币 (BTC) 二维码</b></summary>
   <br>
   <p align="center">
     <a href="https://nowpayments.io/donation/saad1inc" target="_blank">
@@ -157,15 +157,14 @@
   </p>
 </details>
 
-## ✍️ Endnote
+## ✍️ 结语
 
 <p align="center">
-  ✨ <em>Thank you for stopping by and taking the time to explore my profile!</em> 
+  ✨ <em>感谢您的来访与阅读！</em> 
 </p>
 
 ---
 
 <div align="center">
-  <sub>© <strong>Saad (@saad2134 & @saad1inc)</strong>: All projects not published under an open-source license are the copyright of the author and/or collaborators.</sub>
+  <sub>© <strong>Saad (@saad2134 & @saad1inc)</strong>: 所有未在开源许可下发布的项目均为作者和/或合作者版权所有。</sub>
 </div>
-
