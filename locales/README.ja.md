@@ -2,13 +2,17 @@
   <a href="../README.md">English</a> • <a href="./README.ar.md">العربية</a> • <a href="./README.zh.md">简体中文</a> • <a href="./README.hi.md">हिन्दी</a> • <a href="./README.es.md">Español</a> • <a href="./README.fr.md">Français</a> • <a href="./README.pt.md">Português</a> • <a href="./README.de.md">Deutsch</a> • <a href="./README.id.md">Bahasa Indonesia</a> • <a href="./README.ur.md">اردو</a> • <a href="./README.ru.md">Русский</a> • <a href="./README.ja.md">日本語</a>
 </p>
 
-![SAAD-BANNER](../assets/SAAD-BANNER.gif)
+![Saad - Full-stack & AI/ML Engineer Profile Banner](../assets/SAAD-BANNER.gif)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> こんにちは、Saad（サード）です。</h1> 
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF+%2B+AI%2FML+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E8%87%AA%E5%BE%8B%E5%9E%8B%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+%E2%9C%A6+%E8%87%AA%E5%8B%95%E5%8C%96;%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC+%E2%9C%A6+%E5%AD%A6%E7%BF%92%E8%80%85+%E2%9C%A6+%E3%83%81%E3%82%A7%E3%82%B9%E6%84%9B%E5%A5%BD%E5%AE%B6" alt="Typing SVG" /></a>
   </p>
+
+<p align="center">
+  <em>エージェンティックシステム、インテリジェントオートメーション、スケーラブルなWebアーキテクチャを専門とするフルスタック＆AI/MLエンジニア。</em>
+</p>
 
 <h2 align="center" id="technologies">🛠️ 使用技術</h2>
 

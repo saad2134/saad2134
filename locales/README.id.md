@@ -2,13 +2,17 @@
   <a href="../README.md">English</a> • <a href="./README.ar.md">العربية</a> • <a href="./README.zh.md">简体中文</a> • <a href="./README.hi.md">हिन्दी</a> • <a href="./README.es.md">Español</a> • <a href="./README.fr.md">Français</a> • <a href="./README.pt.md">Português</a> • <a href="./README.de.md">Deutsch</a> • <a href="./README.id.md">Bahasa Indonesia</a> • <a href="./README.ur.md">اردو</a> • <a href="./README.ru.md">Русский</a> • <a href="./README.ja.md">日本語</a>
 </p>
 
-![SAAD-BANNER](../assets/SAAD-BANNER.gif)
+![Saad - Full-stack & AI/ML Engineer Profile Banner](../assets/SAAD-BANNER.gif)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Halo, saya Saad.</h1> 
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Insinyur+Full-stack+%2B+AI%2FML;Sistem+Agen+%E2%9C%A6+Otomasi;Inovator+%E2%9C%A6+Pembelajar+%E2%9C%A6+Penggemar+Catur" alt="Typing SVG" /></a>
   </p>
+
+<p align="center">
+  <em>Full-Stack &amp; AI/ML Engineer yang berspesialisasi dalam sistem agen (Agentic Systems), otomasi cerdas, dan arsitektur web skalabel.</em>
+</p>
 
 <h2 align="center" id="technologies">🛠️ Teknologi</h2>
 
