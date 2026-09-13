@@ -6,103 +6,98 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> नमस्ते, मैं साद (Saad) हूँ।</h1> 
 
-<div>
-  <p align="center">
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Full-stack+%2B+AI%2FML+Engineer;Agentic+Systems+%E2%9C%A6+Automations;Innovator+%E2%9C%A6+Learner+%E2%9C%A6+Chess+Enthusiast" alt="Typing SVG" /></a>
   </p>
-</div>
 
 <h2 align="center" id="technologies">🛠️ तकनीकें (Technologies)</h2>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0">
-  <thead>
-    <tr>
-      <th>श्रेणी</th>
-      <th>तकनीकें</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>भाषाएं</td>
-      <td>
-        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML" title="HTML"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS" title="CSS"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white" alt="Sass" title="Sass"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=node&logoColor=white" alt="Node.js" title="Node.js"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" title="Python"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java&logoColor=white" alt="Java" title="Java"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/C-00599C.svg?logo=c-programming&logoColor=white" alt="C" title="C"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin"></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>फ्रेमवर्क और लाइब्रेरी</td>
-      <td>
-        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white" alt=".NET" title=".NET"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Astro-BC52EE.svg?logo=astro&logoColor=white" alt="Astro" title="Astro"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React" title="React"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextjs&logoColor=white" alt="Next.js" title="Next.js"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" alt="LangChain" title="LangChain"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/n8n-EA4B71.svg?logo=n8n&logoColor=white" alt="n8n" title="n8n"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-CB3837.svg?logo=npm&logoColor=white" alt="npm" title="npm"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?logo=threejs&logoColor=white" alt="Three.js" title="Three.js"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white" alt="Express.js" title="Express.js"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django" title="Django"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Jetpack_Compose-4285F4.svg?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" title="Jetpack Compose"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Qt-41CD52.svg?logo=qt&logoColor=white" alt="Qt" title="Qt"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow"></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>डेटाबेस</td>
-      <td>
-        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL" title="MySQL"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" alt="SQLite" title="SQLite"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" alt="Redis" title="Redis"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Apache_Cassandra-1287B1.svg?logo=apachecassandra&logoColor=white" alt="Apache Cassandra" title="Apache Cassandra"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white" alt="Elasticsearch" title="Elasticsearch"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" alt="Prisma" title="Prisma"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>उपकरण (Tools)</td>
-      <td>
-        <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078d7.svg?logo=vscode&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-000000.svg?logo=codepen&logoColor=white" alt="CodePen" title="CodePen"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub" title="GitHub"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white" alt="GitHub Actions" title="GitHub Actions"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab" title="GitLab"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git" title="Git"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white" alt="Anaconda" title="Anaconda"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" alt="Firebase" title="Firebase"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" alt="Vercel" title="Vercel"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Appwrite-FD366E.svg?logo=appwrite&logoColor=white" alt="Appwrite" title="Appwrite"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white" alt="Cloudflare" title="Cloudflare"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?logo=aws&logoColor=white" alt="AWS" title="AWS"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?logo=azure&logoColor=white" alt="Azure" title="Azure"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-4285F4.svg?logo=gcp&logoColor=white" alt="Google Cloud Platform" title="Google Cloud Platform"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker" title="Docker"></a>
-          <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="Postman" title="Postman"></a>
-        </div>
-      </td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td align="left"><b>भाषाएं</b></td>
+    <td>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML" title="HTML" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3" alt="CSS3" title="CSS3" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white" alt="Sass" title="Sass" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=node&logoColor=white" alt="Node.js" title="Node.js" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" title="Python" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java&logoColor=white" alt="Java" title="Java" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/C-00599C.svg?logo=c&logoColor=white" alt="C" title="C" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>फ्रेمवर्क और लाइब्रेरी</b></td>
+    <td>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React" title="React" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Astro-BC52EE.svg?logo=astro&logoColor=white" alt="Astro" title="Astro" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?logo=threejs&logoColor=white" alt="Three.js" title="Three.js" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Jetpack_Compose-4285F4.svg?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" title="Jetpack Compose" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Qt-41CD52.svg?logo=qt&logoColor=white" alt="Qt" title="Qt" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white" alt="Express.js" title="Express.js" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django" title="Django" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-CB3837.svg?logo=npm&logoColor=white" alt="npm" title="npm" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" alt="NumPy" title="NumPy" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="Pandas" title="Pandas" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" title="scikit-learn" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" alt="LangChain" title="LangChain" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/CrewAI-FF5A00?logo=crewai&logoColor=white" alt="CrewAI" title="CrewAI" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/n8n-EA4B71.svg?logo=n8n&logoColor=white" alt="n8n" title="n8n" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>डेटाबेस</b></td>
+    <td>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL" title="MySQL" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" alt="SQLite" title="SQLite" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" alt="Redis" title="Redis" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Apache_Cassandra-1287B1.svg?logo=apachecassandra&logoColor=white" alt="Apache Cassandra" title="Apache Cassandra" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white" alt="Elasticsearch" title="Elasticsearch" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" alt="Prisma" title="Prisma" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white" alt="Supabase" title="Supabase" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>उपकरण</b></td>
+    <td>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black" alt="Linux" title="Linux" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white" alt="Bash" title="Bash" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git" title="Git" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab" title="GitLab" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078d7.svg?logo=vscode&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-000000.svg?logo=codepen&logoColor=white" alt="CodePen" title="CodePen" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Webpack-1C78C0.svg?logo=webpack&logoColor=white" alt="Webpack" title="Webpack" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?logo=vite&logoColor=white" alt="Vite" title="Vite" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bun-000000.svg?logo=bun&logoColor=white" alt="Bun" title="Bun" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="Postman" title="Postman" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white" alt="Anaconda" title="Anaconda" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker" title="Docker" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" alt="Vercel" title="Vercel" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white" alt="Cloudflare" title="Cloudflare" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" alt="Firebase" title="Firebase" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Appwrite-FD366E.svg?logo=appwrite&logoColor=white" alt="Appwrite" title="Appwrite" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?logo=aws&logoColor=white" alt="AWS" title="AWS" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?logo=azure&logoColor=white" alt="Azure" title="Azure" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-4285F4.svg?logo=gcp&logoColor=white" alt="Google Cloud Platform" title="Google Cloud Platform" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white" alt="MLflow" title="MLflow" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Ollama-000000.svg?logo=ollama&logoColor=white" alt="Ollama" title="Ollama" /></a>
+    </td>
+  </tr>
 </table>
 
 <!-- https://github.com/DenverCoder1/custom-icon-badges -->
