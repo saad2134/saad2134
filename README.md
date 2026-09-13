@@ -45,7 +45,6 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django" title="Django" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" /></a>
-      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-CB3837.svg?logo=npm&logoColor=white" alt="npm" title="npm" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" alt="NumPy" title="NumPy" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="Pandas" title="Pandas" /></a>
       <a href="#technologies"><img src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" title="scikit-learn" /></a>
@@ -82,6 +81,7 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-000000.svg?logo=codepen&logoColor=white" alt="CodePen" title="CodePen" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Webpack-1C78C0.svg?logo=webpack&logoColor=white" alt="Webpack" title="Webpack" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?logo=vite&logoColor=white" alt="Vite" title="Vite" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-CB3837.svg?logo=npm&logoColor=white" alt="npm" title="npm" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bun-000000.svg?logo=bun&logoColor=white" alt="Bun" title="Bun" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="Postman" title="Postman" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white" alt="Anaconda" title="Anaconda" /></a>
