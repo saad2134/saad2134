@@ -16,10 +16,10 @@
 
 <h2 align="center" id="technologies">🛠️ Tecnologías</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="left"><b>Lenguajes</b></td>
-    <td>
+    <td width="22%" align="left"><b>Lenguajes</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-1E2327.svg?logo=html5&logoColor=E34F26&style=for-the-badge" alt="HTML" title="HTML" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CSS3-1E2327.svg?logo=css3&style=for-the-badge" alt="CSS3" title="CSS3" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Sass-1E2327.svg?logo=sass&logoColor=CC6699&style=for-the-badge" alt="Sass" title="Sass" /></a>
@@ -34,8 +34,8 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Frameworks y Librerías</b></td>
-    <td>
+    <td width="22%" align="left"><b>Frameworks y Librerías</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/React-1E2327.svg?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" title="React" /></a>
       <a href="#technologies"><img src="https://img.shields.io/badge/Next.js-1E2327?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" title="Next.js" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Astro-1E2327.svg?logo=astro&logoColor=BC52EE&style=for-the-badge" alt="Astro" title="Astro" /></a>
@@ -47,7 +47,11 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Django-1E2327.svg?logo=django&logoColor=092E20&style=for-the-badge" alt="Django" title="Django" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/FastAPI-1E2327.svg?logo=fastapi&logoColor=009688&style=for-the-badge" alt="FastAPI" title="FastAPI" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GraphQL-1E2327.svg?logo=graphql&logoColor=E10098&style=for-the-badge" alt="GraphQL" title="GraphQL" /></a>
-      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-1E2327.svg?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm" title="npm" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><b>IA y Machine Learning</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/NumPy-1E2327.svg?logo=numpy&logoColor=013243&style=for-the-badge" alt="NumPy" title="NumPy" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Pandas-1E2327.svg?logo=pandas&logoColor=150458&style=for-the-badge" alt="Pandas" title="Pandas" /></a>
       <a href="#technologies"><img src="https://img.shields.io/badge/scikit_learn-1E2327?logo=scikitlearn&logoColor=F7931E&style=for-the-badge" alt="scikit-learn" title="scikit-learn" /></a>
@@ -55,12 +59,15 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-1E2327.svg?logo=tensorflow&logoColor=FF6F00&style=for-the-badge" alt="TensorFlow" title="TensorFlow" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/LangChain-1E2327.svg?logo=langchain&logoColor=1C3C3C&style=for-the-badge" alt="LangChain" title="LangChain" /></a>
       <a href="#technologies"><img src="https://img.shields.io/badge/CrewAI-1E2327?logo=crewai&logoColor=FF5A00&style=for-the-badge" alt="CrewAI" title="CrewAI" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MLflow-1E2327.svg?logo=mlflow&logoColor=0194E2&style=for-the-badge" alt="MLflow" title="MLflow" /></a>
+      <a href="#technologies"><img src="https://img.shields.io/badge/Hugging_Face-1E2327?logo=huggingface&logoColor=FFD21E&style=for-the-badge" alt="Hugging Face" title="Hugging Face" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Ollama-1E2327.svg?logo=ollama&logoColor=white&style=for-the-badge" alt="Ollama" title="Ollama" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/n8n-1E2327.svg?logo=n8n&logoColor=EA4B71&style=for-the-badge" alt="n8n" title="n8n" /></a>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Bases de datos</b></td>
-    <td>
+    <td width="22%" align="left"><b>Bases de datos</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-1E2327.svg?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="MySQL" title="MySQL" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-1E2327.svg?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="PostgreSQL" title="PostgreSQL" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/SQLite-1E2327.svg?logo=sqlite&logoColor=003B57&style=for-the-badge" alt="SQLite" title="SQLite" /></a>
@@ -73,8 +80,8 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Herramientas</b></td>
-    <td>
+    <td width="22%" align="left"><b>Herramientas</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Linux-1E2327.svg?logo=linux&logoColor=FCC624&style=for-the-badge" alt="Linux" title="Linux" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bash-1E2327.svg?logo=gnubash&logoColor=4EAA25&style=for-the-badge" alt="Bash" title="Bash" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Git-1E2327.svg?logo=git&logoColor=F05032&style=for-the-badge" alt="Git" title="Git" /></a>
@@ -85,8 +92,14 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Webpack-1E2327.svg?logo=webpack&logoColor=8DD6F9&style=for-the-badge" alt="Webpack" title="Webpack" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Vite-1E2327.svg?logo=vite&logoColor=646CFF&style=for-the-badge" alt="Vite" title="Vite" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Bun-1E2327.svg?logo=bun&logoColor=white&style=for-the-badge" alt="Bun" title="Bun" /></a>
+      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/npm-1E2327.svg?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm" title="npm" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Postman-1E2327.svg?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="Postman" title="Postman" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Anaconda-1E2327.svg?logo=anaconda&logoColor=44A833&style=for-the-badge" alt="Anaconda" title="Anaconda" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><b>DevOps y Cloud</b></td>
+    <td width="78%">
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Docker-1E2327.svg?logo=docker&logoColor=2496ED&style=for-the-badge" alt="Docker" title="Docker" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-1E2327.svg?logo=kubernetes&logoColor=326CE5&style=for-the-badge" alt="Kubernetes" title="Kubernetes" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-1E2327.svg?logo=github-actions&logoColor=2088FF&style=for-the-badge" alt="GitHub Actions" title="GitHub Actions" /></a>
@@ -96,10 +109,6 @@
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Appwrite-1E2327.svg?logo=appwrite&logoColor=FD366E&style=for-the-badge" alt="Appwrite" title="Appwrite" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/AWS-1E2327.svg?logo=aws&logoColor=FF9900&style=for-the-badge" alt="AWS" title="AWS" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Azure-1E2327.svg?logo=azure&logoColor=0078D4&style=for-the-badge" alt="Azure" title="Azure" /></a>
-      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-1E2327.svg?logo=gcp&logoColor=4285F4&style=for-the-badge" alt="Google Cloud Platform" title="Google Cloud Platform" /></a>
-      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/MLflow-1E2327.svg?logo=mlflow&logoColor=0194E2&style=for-the-badge" alt="MLflow" title="MLflow" /></a>
-      <a href="#technologies"><img src="https://img.shields.io/badge/Hugging_Face-1E2327?logo=huggingface&logoColor=FFD21E&style=for-the-badge" alt="Hugging Face" title="Hugging Face" /></a>
-      <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Ollama-1E2327.svg?logo=ollama&logoColor=white&style=for-the-badge" alt="Ollama" title="Ollama" /></a>
     </td>
   </tr>
 </table>
@@ -108,13 +117,34 @@
 
 <h2 align="center">🌐 Contacto y Perfiles</h2>
 
-| Categoría | Enlaces y Plataformas |
-|:---|:---|
-| **Contacto Directo** | 📧 [reach.saad@outlook.com](mailto:reach.saad@outlook.com) *(Método preferido)* • 💬 [Discord](https://discord.com/users/1044305442496585818) • 💼 [LinkedIn](https://www.linkedin.com/in/saad2134/) |
-| **Perfiles de Desarrollador** | <a href="https://gitlab.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-1E2327.svg?logo=gitlab&logoColor=FC6D26&style=for-the-badge" alt="GitLab" /></a> <a href="https://leetcode.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1E2327.svg?logo=leetcode&logoColor=FFA116&style=for-the-badge" alt="LeetCode" /></a> <a href="https://www.kaggle.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/Kaggle-1E2327.svg?logo=kaggle&logoColor=20BEFF&style=for-the-badge" alt="Kaggle" /></a> |
-| **Redes Sociales** | <a href="https://x.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/X-1E2327.svg?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a> <a href="https://www.youtube.com/@saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/YouTube-1E2327.svg?logo=youtube&logoColor=FF0000&style=for-the-badge" alt="YouTube" /></a> <a href="https://bsky.app/profile/saad1inc.bsky.social"><img src="https://custom-icon-badges.demolab.com/badge/Bluesky-1E2327.svg?logo=bluesky&logoColor=0285FF&style=for-the-badge" alt="Bluesky" /></a> <a href="https://www.instagram.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-1E2327.svg?logo=instagram&logoColor=E4405F&style=for-the-badge" alt="Instagram" /></a> <a href="https://www.facebook.com/saad1inc/"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-1E2327.svg?logo=facebook&logoColor=1877F2&style=for-the-badge" alt="Facebook" /></a> |
-
-
+<table width="100%">
+  <tr>
+    <td width="22%" align="left"><b>Contacto Directo</b></td>
+    <td width="78%">
+      <a href="mailto:reach.saad@outlook.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-1E2327.svg?logo=mail&logoColor=EA4335&style=for-the-badge" alt="Email" /></a>
+      <a href="https://discord.com/users/1044305442496585818"><img src="https://custom-icon-badges.demolab.com/badge/Discord-1E2327.svg?logo=discord&logoColor=5865F2&style=for-the-badge" alt="Discord" /></a>
+      <a href="https://www.linkedin.com/in/saad2134/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E2327.svg?logo=linkedin-icon&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><b>Perfiles de Desarrollador</b></td>
+    <td width="78%">
+      <a href="https://gitlab.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-1E2327.svg?logo=gitlab&logoColor=FC6D26&style=for-the-badge" alt="GitLab" /></a>
+      <a href="https://leetcode.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1E2327.svg?logo=leetcode&logoColor=FFA116&style=for-the-badge" alt="LeetCode" /></a>
+      <a href="https://www.kaggle.com/saad2134"><img src="https://custom-icon-badges.demolab.com/badge/Kaggle-1E2327.svg?logo=kaggle&logoColor=20BEFF&style=for-the-badge" alt="Kaggle" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><b>Redes Sociales</b></td>
+    <td width="78%">
+      <a href="https://x.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/X-1E2327.svg?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
+      <a href="https://www.youtube.com/@saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/YouTube-1E2327.svg?logo=youtube&logoColor=FF0000&style=for-the-badge" alt="YouTube" /></a>
+      <a href="https://bsky.app/profile/saad1inc.bsky.social"><img src="https://custom-icon-badges.demolab.com/badge/Bluesky-1E2327.svg?logo=bluesky&logoColor=0285FF&style=for-the-badge" alt="Bluesky" /></a>
+      <a href="https://www.instagram.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-1E2327.svg?logo=instagram&logoColor=E4405F&style=for-the-badge" alt="Instagram" /></a>
+      <a href="https://www.facebook.com/saad1inc/"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-1E2327.svg?logo=facebook&logoColor=1877F2&style=for-the-badge" alt="Facebook" /></a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" id="live-stats">📈 Estadísticas en Vivo</h2>
 
