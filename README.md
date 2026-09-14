@@ -5,7 +5,7 @@
 -->
 ![Saad - Full-stack & AI/ML Engineer Profile Banner](./assets/SAAD-BANNER.gif)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
+<h1 align="center"><a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></a> Hi, I’m Saad.</h1> 
 
 <p align="center">
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Full-stack+%2B+AI%2FML+Engineer;Agentic+Systems+%E2%9C%A6+Automations;Entrepreneur+%E2%9C%A6+Builder+%E2%9C%A6+Strategist" alt="Typing SVG" /></a>
