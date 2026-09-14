@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Full-stack+%2B+AI%2FML+Engineer;Agentic+Systems+%E2%9C%A6+Automations;Entrepreneur+%E2%9C%A6+Builder+%E2%9C%A6+Strategist" alt="Typing SVG" /></a>
     <br><em>Full-Stack &amp; AI/ML Engineer specializing in Agentic Systems, Intelligent Automations, and Scalable Application Architectures.</em>
-    <br><em>Exploring Entrepreneurship × Tech, bridging engineering, business, and strategy to build meaningful products and scalable ventures.</em>
+    <br><em>Exploring Entrepreneurship × Tech, bridging engineering, business, and strategy to build meaningful products.</em>
 </p>
 
 <h2 align="center" id="technologies">🛠️ Technologies</h2>
