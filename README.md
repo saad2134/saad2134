@@ -8,8 +8,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I’m Saad.</h1> 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Full-stack+%2B+AI%2FML+Engineer;Agentic+Systems+%E2%9C%A6+Automations;Entrepreneur+%E2%9C%A6+Learner+%E2%9C%A6+Chess+Enthusiast" alt="Typing SVG" /></a>
-    <br><em>Full-Stack &amp; AI/ML Engineer specializing in Agentic Systems, Intelligent Automations, and Scalable Application Architectures. Exploring entrepreneurship alongside technology.</em>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=30&duration=3000&pause=2000&color=ED2939&background=37FF8C00&center=true&vCenter=true&width=500&lines=Full-stack+%2B+AI%2FML+Engineer;Agentic+Systems+%E2%9C%A6+Automations;Entrepreneur+%E2%9C%A6+Learner+%E2%9C%A6+Chess+Player" alt="Typing SVG" /></a>
+    <br><em>Exploring entrepreneurship alongside technology. Full-Stack &amp; AI/ML Engineer specializing in Agentic Systems, Intelligent Automations, and Scalable Application Architectures.</em>
 </p>
 
 <h2 align="center" id="technologies">🛠️ Technologies</h2>
