@@ -20,7 +20,6 @@
   <tr>
     <td width="22%" align="left"><b>اللغات</b></td>
     <td width="78%">
-      <img src="../assets/spacer.svg" width="1000" height="0" />
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-1E2327.svg?logo=html5&logoColor=E34F26&style=for-the-badge" alt="HTML" title="HTML" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/CSS3-1E2327.svg?logo=css3&style=for-the-badge" alt="CSS3" title="CSS3" /></a>
       <a href="#technologies"><img src="https://custom-icon-badges.demolab.com/badge/Sass-1E2327.svg?logo=sass&logoColor=CC6699&style=for-the-badge" alt="Sass" title="Sass" /></a>
@@ -122,8 +121,12 @@
   <tr>
     <td width="22%" align="left"><b>الاتصال المباشر</b></td>
     <td width="78%">
-      <img src="../assets/spacer.svg" width="1000" height="0" />
-      <a href="mailto:reach.saad@outlook.com"><img src="https://custom-icon-badges.demolab.com/badge/Email_(Best)-1E2327.svg?logo=mail&logoColor=EA4335&style=for-the-badge" alt="Email (Best)" /></a>
+      📧 <a href="mailto:reach.saad@outlook.com">reach.saad@outlook.com</a> <em>(أفضل طريقة)</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><b>راسلني</b></td>
+    <td width="78%">
       <a href="https://discord.com/users/1044305442496585818"><img src="https://custom-icon-badges.demolab.com/badge/Discord-1E2327.svg?logo=discord&logoColor=5865F2&style=for-the-badge" alt="Discord" /></a>
       <a href="https://www.linkedin.com/in/saad2134/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E2327.svg?logo=linkedin-icon&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" /></a>
     </td>
@@ -144,6 +147,7 @@
       <a href="https://bsky.app/profile/saad1inc.bsky.social"><img src="https://custom-icon-badges.demolab.com/badge/Bluesky-1E2327.svg?logo=bluesky&logoColor=0285FF&style=for-the-badge" alt="Bluesky" /></a>
       <a href="https://www.instagram.com/saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-1E2327.svg?logo=instagram&logoColor=E4405F&style=for-the-badge" alt="Instagram" /></a>
       <a href="https://www.facebook.com/saad1inc/"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-1E2327.svg?logo=facebook&logoColor=1877F2&style=for-the-badge" alt="Facebook" /></a>
+      <a href="https://medium.com/@saad1inc"><img src="https://custom-icon-badges.demolab.com/badge/Medium-1E2327.svg?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
     </td>
   </tr>
 </table>
